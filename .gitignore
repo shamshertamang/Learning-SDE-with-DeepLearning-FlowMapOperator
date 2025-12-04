@@ -1,0 +1,6 @@
+.venv/
+
+./Data
+./models
+./images
+./QUESTIONS.md
